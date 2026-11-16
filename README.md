@@ -2,8 +2,8 @@
 
 ## Group Information
 - **Group ID:** 115
-- **Member 1:** Akshat Rawat,2025059 - 50% contribution
-- **Member 2:** Aaditya Saini,2025005 - 50% contribution
+- **Member 1:** Akshat Rawat,2025059
+- **Member 2:** Aaditya Saini,2025005 
 - **Private GitHub Repository Link:** github.com/akshatrawat150906/os_assignment5
 
 ---
