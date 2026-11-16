@@ -1,10 +1,10 @@
 # Assignment-5: SimpleMultithreader
 
 ## Group Information
-- **Group ID:** [Your Group ID]
-- **Member 1:** [Name, Roll Number] - 50% contribution
-- **Member 2:** [Name, Roll Number] - 50% contribution
-- **Private GitHub Repository Link:** [Link to your private GitHub repo]
+- **Group ID:** 115
+- **Member 1:** Akshat Rawat,2025059 - 50% contribution
+- **Member 2:** Aaditya Saini,2025005 - 50% contribution
+- **Private GitHub Repository Link:** github.com/akshatrawat150906/os_assignment5
 
 ---
 
